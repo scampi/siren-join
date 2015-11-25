@@ -2,7 +2,7 @@
 == Introduction
 
 The SIREn Join plugin is an open-source plugin for Elasticsearch that adds join capabilities across indices.
-Currently one type of join is implement which we call ``Filter Join'', but our objective is to add more
+Currently one type of join is implemented which we call ``Filter Join'', but our objective is to add more
 type of joins in the future.
 
 The Filter Join is basically a inner-join between two set of documents based on a common attribute. This join is
